@@ -21,6 +21,7 @@ class ProductRequest extends FormRequest
      *
      * @return array<string, mixed>
      */
+    
     public function rules()
     {
         return [
